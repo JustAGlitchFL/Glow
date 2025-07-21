@@ -21,3 +21,19 @@ I was trying to figure out how in the world I wanted to build this; whether to u
 I thought up the layout and rough format of the device, and chose LED modules, microcontrollers, LiPo charging ICs, and control switches to use for this.
 
 ## 6/21: Schematic and start of PCB
+4 hours
+![](/images/sch.png)
+
+## 6/22: Finishing the pcb
+3 hours
+rerouted like 5 times after I realized it would be significantly easier to put all the SMD components on one side for hot plate assembly.
+![](/images/pcb.png)
+
+## 6/23: Case
+2 hours
+onshaped a case
+![](/images/case.png)
+
+## 7/21: Back from Montana and actually getting around to submitting it
+3 hours
+BOM, finishing journal, submitting, etc
